@@ -1,0 +1,4 @@
+<script>
+       function GioiThieu(){
+            alert("Tôi là");
+</script>
